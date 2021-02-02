@@ -23,7 +23,8 @@ public class SeleniumIntro {
 
 
 
-/*
+   @Test
+    
     public void test2(){
         System.setProperty("webdriver.chrome.driver","resources/chromedriver");
         WebDriver driver2 = new ChromeDriver();
@@ -32,7 +33,8 @@ public class SeleniumIntro {
 
 
 
-
+   @Test
+    
     public void test3(){
         System.setProperty("webdriver.chrome.driver","resources/chromedriver");
         WebDriver driver3 = new ChromeDriver();
